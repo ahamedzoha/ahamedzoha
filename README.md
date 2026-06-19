@@ -105,16 +105,18 @@ const azaz = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahamedzoha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedzoha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahamedzoha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedzoha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedzoha&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahamedzoha&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedzoha&layout=compact&card_width=820&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br/>
+<br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahamedzoha&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 
 </div>
 
