@@ -3,12 +3,12 @@
 <!-- ====================== HEADER ====================== -->
 
 <a href="https://azazahamed.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=60&lines=Senior+Full-Stack+AI+Engineer;I+build+AI-native+products+end+to+end;RAG+pipelines%2C+event-driven+systems%2C+crisp+UIs;6%2B+years+in+the+TypeScript+ecosystem" alt="Azaz Ahamed — Senior Full-Stack AI Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=60&lines=Senior+Frontend+Engineer+%28Full-Stack%29;React%2FNext.js+architecture%2C+design+systems%2C+performance;Backend+%2B+AI+depth%3A+NestJS%2C+RAG%2C+event-driven+systems;6%2B+years+in+the+TypeScript+ecosystem" alt="Azaz Ahamed — Senior Frontend Engineer (Full-Stack)" />
 </a>
 
 ### Hi there 👋 I'm Azaz Ahamed Zoha
 
-📍 Dhaka, Bangladesh &nbsp;•&nbsp; Turning ideas into production systems — from the database to the pixel.
+📍 Dhaka, Bangladesh &nbsp;•&nbsp; Turning ideas into production systems — from the pixel to the database.
 
 <!-- ====================== SOCIAL / CONTACT ====================== -->
 
@@ -28,7 +28,7 @@
 ```ts
 const azaz = {
   role: "Software Engineer III @ RoBenDevs",
-  focus: ["AI-native apps", "RAG pipelines", "event-driven backends", "design systems"],
+  focus: ["React/Next.js architecture", "design systems", "AI-native apps", "event-driven backends"],
   stack: { fe: ["React", "Next.js", "TypeScript"], be: ["NestJS", "Postgres", "Redis"] },
   current: "Architecting Pulse — an AI-native team-intelligence platform",
   learning: "Distributed systems & system design, the hard way (by building)",
